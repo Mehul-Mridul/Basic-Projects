@@ -49,7 +49,7 @@ A simple and stylish web-based calculator built using **HTML, CSS, and JavaScrip
 - 📱 Make it more mobile-friendly.
 
 ## 💡 Credits
-Made with ❤️ by [Your Name].
+Made with ❤️ by [Mehul Mridul].
 
 Enjoy calculating! 🧮🚀
 
