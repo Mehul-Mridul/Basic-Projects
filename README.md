@@ -16,7 +16,7 @@ A simple and stylish web-based calculator built using **HTML, CSS, and JavaScrip
 ## 📸 Screenshots
 | Initial Interface | Entering Expression | Displaying Result |
 |------------------|--------------------|------------------|
-| ![Initial](picture1.png) | ![Expression](picture2.png) | ![Result](picture3.png) |
+| ![Initial](Calculator/picture1.png) | ![Expression](Calculator/picture2.png) | ![Result](Calculator/picture3.png) |
 
 ## 🚀 How to Run
 1. **Download or clone** this repository.
