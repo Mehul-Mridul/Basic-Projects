@@ -1,7 +1,7 @@
 # Basic-Projects
 Basic To Advance Journey
 
-#Project 1
+# Project 1
 # 🧮 Basic Calculator
 
 A simple and stylish web-based calculator built using **HTML, CSS, and JavaScript**. This project provides a smooth and interactive interface for basic arithmetic operations.
