@@ -6,6 +6,13 @@ Basic To Advance Journey
 
 A simple and stylish web-based calculator built using **HTML, CSS, and JavaScript**. This project provides a smooth and interactive interface for basic arithmetic operations.
 
+## ✨ Features
+- 🟢 **Stylish UI** with neon glow effect.
+- 🔢 Supports basic arithmetic operations (+, -, *, /).
+- 🗑️ **AC (All Clear)** button to reset input.
+- 🔙 **DE (Delete)** button to remove last digit.
+- 🎨 Responsive and visually appealing design.
+
 
 
 ## 📸 Screenshots
