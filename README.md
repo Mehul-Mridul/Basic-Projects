@@ -38,6 +38,11 @@ A simple and stylish web-based calculator built using **HTML, CSS, and JavaScrip
  ├── 📸 picture2.png # Screenshot of input
  ├── 📸 picture3.png # Screenshot of output
 ```
+## 🎯 How It Works
+- Click buttons to enter numbers and operators.
+- The **equal (=) button** evaluates the entered expression.
+- The **AC button** clears the entire input.
+- The **DE button** deletes the last entered character.
 
 
 
